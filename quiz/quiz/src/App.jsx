@@ -102,6 +102,248 @@ function App() {
         },
       ],
     },
+    {
+      id: 4,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
+     {
+      id: 5,
+       question: " 	_______ is the smallest unit of data in a computer ?",
+       answers: [
+         {
+        text: "Gigabyte ",
+           correct: false,
+         },
+         {
+           text: "Bit",
+           correct: true,
+         },
+         {
+           text: "Byte",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: false,
+         },
+       ],
+     },
+     {
+      id: 6,
+       question: " Which of the following is NOT an anti-virus software ?",
+       answers: [
+         {
+        text: "avast",
+           correct: false,
+         },
+         {
+           text: "linux",
+           correct: true,
+         },
+         {
+           text: "norton",
+           correct: false,
+         },
+         {
+           text: "kaspersky",
+           correct: false,
+         },
+       ],
+     },
+     {
+      id: 7,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
+     {
+      id: 8,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
+     {
+      id: 9,
+       question: " In the context of digital computer, which of the following pairs of digits is referred to as binary code ?",
+       answers: [
+         {
+        text: "3 and 4 ",
+           correct: false,
+         },
+         {
+           text: "0 and 1 ",
+           correct: true,
+         },
+         {
+           text: "2 and 3 ",
+           correct: false,
+         },
+         {
+           text: "2 and 3 ",
+           correct: false,
+         },
+       ],
+     },
+     {
+      id: 10,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
+     {
+      id: 11,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
+     {
+      id: 12,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
+     {
+      id: 13,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
+     {
+      id: 14,
+       question: " The Cleanroom philosophy was proposed by _________",
+       answers: [
+         {
+        text: "Linger",
+           correct: false,
+         },
+         {
+           text: "Mills",
+           correct: false,
+         },
+         {
+           text: "Dyer",
+           correct: false,
+         },
+         {
+           text: "All of the Mentioned",
+           correct: true,
+         },
+       ],
+     },
   ];
   
 
